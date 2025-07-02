@@ -36,8 +36,8 @@ const HomePage = () => {
                         </ul>
                         <h2> Campus Life & Facilities</h2> <hr />
                         <div className="campus-images-container">
-                            <img src="\public\Images\VCK.jpg" alt="Vivekanand College Information" className="campus-image"/>
-                            <img src="\public\Images\vck img.jpeg" alt="Vivekanand College Campus" className="campus-image"/>
+                            <img src="\Images\vck img.jpeg" alt="Vivekanand College Information" className="campus-image"/>
+                            <img src="\Images\VCK.jpg" alt="Vivekanand College Campus" className="campus-image"/>
                         </div>
                     </div>
                 </div>
